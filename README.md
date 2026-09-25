@@ -9,4 +9,14 @@ Currently executing a rigorous multi-year roadmap to transition into core infras
 - 🎯 **Goal:** Building deterministic, low-latency applications and contributing to high-performance open-source systems.
 
 ---
-### 📊 GitHub Stats & Focus
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renanperao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Renan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanperao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanperao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
