@@ -19,9 +19,16 @@
 ### 🟢 `[SYS_METRICS_DUMP]`
 
 <div align="center">
-  <!-- Estatísticas Gerais (Lendo os seus dados privados da Vercel) -->
+  <!-- Estatísticas Gerais -->
   <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api?username=renanperao&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Renan's GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Bloco Esquerdo: Linguagens Core / Backend -->
+  <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api/top-langs/?username=renanperao&layout=compact&custom_title=Core%20/%20Systems&hide_border=true&hide=typescript,javascript,html,css,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Core Languages" width="45%" />
   
-  <!-- Linguagens (Sem a web stack, via Vercel) -->
-  <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api/top-langs/?username=renanperao&layout=compact&hide_border=true&hide=typescript,javascript,html,css,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+  <!-- Bloco Direito: Linguagens Web / Front-end -->
+  <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api/top-langs/?username=renanperao&layout=compact&custom_title=Web%20/%20Front-end&hide_border=true&hide=c%23,java,shell,python,c%2B%2B,c,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Web Languages" width="45%" />
 </div>
