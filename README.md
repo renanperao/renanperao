@@ -1,36 +1,43 @@
 <div align="center">
-  <h1>Hi there 👋 I'm Renan Perão</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Systems+%26+Low-Latency+Engineer;Modern+C%2B%2B+(C%2B%2B17%2F20)+%7C+Linux+Internals;High-Performance+Computing+%26+HFT+Infrastructure;" alt="Typing SVG" />
-
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=renan@perao:~%24+whoami;Aspiring+Systems+%26+Low-Latency+Engineer;renan@perao:~%24+cat+%2Fproc%2Ffocus;Modern+C%2B%2B+(17%2F20)+%7C+Linux+Internals;renan@perao:~%24+./hft_infra_builder" alt="Typing SVG - Terminal Style" />
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B20-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/WSL2-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF66" />
+</div>
+
+<br/>
+
+> **`SYSTEM_LOG`**: Currently executing a rigorous multi-year roadmap to transition into core infrastructure engineering and high-frequency trading (HFT) ecosystems. Building deterministic, low-latency applications and contributing to high-performance open-source systems.
 
 ---
 
-### 🔭 About & Engineering Roadmap
+### 🟢 `[SYS_METRICS_DUMP]`
 
-Aspiring **Systems & Low-Latency Engineer** focused on mastering modern C++, Linux internals, and high-performance computing. 
+<div align="center">
+  <!-- Estatísticas Gerais - Estilo Terminal (fundo transparente, texto branco/verde) -->
+  <img src="https://github-readme-stats-renanperaos-projects.vercel.app/api?username=renanperao&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Renan's GitHub Stats" />
+  
+  <!-- Linguagens - Estilo Terminal (Ocultando a web stack) -->
+  <img src="https://github-readme-stats-renanperaos-projects.vercel.app/api/top-langs/?username=renanperao&layout=compact&hide_border=true&hide=typescript,javascript,html,css,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
-Currently executing a rigorous multi-year roadmap to transition into core infrastructure engineering and high-frequency trading (HFT) ecosystems.
+<br/>
 
-```cpp
-#include <iostream>
-#include <memory>
+<div align="center">
+  <!-- Streak Stats - Estilo Terminal -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanperao&hide_border=true&background=00000000&stroke=00000000&ring=00FF66&fire=00FF66&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00FF66&sideLabels=FFFFFF&dates=aaaaaa" alt="GitHub Streak" />
+</div>
 
-struct Engineer {
-    const char* goal = "Deterministic, low-latency infrastructure";
-    const char* focus = "Modern C++ (17/20), Cache-locality, Lock-free";
-};
+<br/>
 
-int main() {
-    auto renan = std::make_unique<Engineer>();
-    std::cout << "Target: " << renan->goal << '\n';
-    return 0;
-}
+### 📈 `[ACTIVITY_TELEMETRY]`
+
+<div align="center">
+  <!-- Gráfico Animado - Tema Escuro Hacker (Transparente com linha verde) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renanperao&hide_border=true&area=true&bg_color=00000000&color=00FF66&line=00FF66&point=FFFFFF" alt="Contribution Graph" width="95%" />
+</div>
