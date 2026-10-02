@@ -19,17 +19,17 @@
 ### 🟢 `[SYS_METRICS_DUMP]`
 
 <div align="center">
-  <!-- Estatísticas Gerais - Estilo Terminal (fundo transparente, texto branco/verde) -->
-  <img src="https://github-readme-stats-renanperaos-projects.vercel.app/api?username=renanperao&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Renan's GitHub Stats" />
+  <!-- Estatísticas Gerais (Lendo os seus dados privados da Vercel) -->
+  <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api?username=renanperao&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" alt="Renan's GitHub Stats" />
   
-  <!-- Linguagens - Estilo Terminal (Ocultando a web stack) -->
-  <img src="https://github-readme-stats-renanperaos-projects.vercel.app/api/top-langs/?username=renanperao&layout=compact&hide_border=true&hide=typescript,javascript,html,css,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+  <!-- Linguagens (Sem a web stack, via Vercel) -->
+  <img src="https://github-readme-stats-nine-kappa-50.vercel.app/api/top-langs/?username=renanperao&layout=compact&hide_border=true&hide=typescript,javascript,html,css,plpgsql&bg_color=00000000&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats - Estilo Terminal -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanperao&hide_border=true&background=00000000&stroke=00000000&ring=00FF66&fire=00FF66&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00FF66&sideLabels=FFFFFF&dates=aaaaaa" alt="GitHub Streak" />
 </div>
 
@@ -38,6 +38,6 @@
 ### 📈 `[ACTIVITY_TELEMETRY]`
 
 <div align="center">
-  <!-- Gráfico Animado - Tema Escuro Hacker (Transparente com linha verde) -->
+  <!-- Gráfico Animado de Contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renanperao&hide_border=true&area=true&bg_color=00000000&color=00FF66&line=00FF66&point=FFFFFF" alt="Contribution Graph" width="95%" />
 </div>
